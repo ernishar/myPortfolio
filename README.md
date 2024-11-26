@@ -1,9 +1,9 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://rahul-75.vercel.app/" target="_blank">Rahul</a>
+  Portfolio Website<br/>
+  <a href="https://rahul-75.vercel.app/" target="_blank">Nishar</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readm.png" />
+  <!-- <img alt="Demo" src="./Images/readm.png" /> -->
 </div>
 
 <br/>

@@ -19,36 +19,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming, and along the way, I’ve learned
+              quite a bit! 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am proficient in classic programming languages like
               <i>
-                <b className="purple"> JAVA, C, Javascript and PYTHON. </b>
+                <b className="purple"> Java, JavaScript, and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My areas of interest include building &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
                 <b className="purple">
-                  Machin Learning.
+                  innovative web technologies and products,{" "}
                 </b>
               </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              as well as diving into{" "}
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple"> Artificial Intelligence</b>
+              </i>
+              <br />
+              <br />I often leverage my passion for product development by
+              working with <b className="purple">Node.js</b> and
+              <i>
+                <b className="purple"> modern JavaScript frameworks</b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Node.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
@@ -77,7 +75,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/mr.nisharalam"
+                  href="https://twitter.com/mr_nisharalam"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
